@@ -171,7 +171,7 @@ namespace MapleServer2.Types
 
         public static Player Char1(long accountId, long characterId, string name = "Char1")
         {
-            Job job = Job.Archer;
+            Job job = Job.Wizard;
             PlayerStats stats = new PlayerStats();
             StatDistribution statPointDistribution = new StatDistribution(totalStats: 18);
             List<SkillTab> skillTabs = new List<SkillTab>

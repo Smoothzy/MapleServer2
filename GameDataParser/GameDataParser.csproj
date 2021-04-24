@@ -17,6 +17,7 @@
     <ItemGroup>
       <Folder Include="Files\m2dFiles\" />
       <Folder Include="Hash\" />
+      <Folder Include="Maple2Storage\" />
       <Folder Include="Properties\" />
     </ItemGroup>
 
